@@ -1,0 +1,1 @@
+GRANT EXECUTE ON FUNCTION public.grant_order_downloads(uuid) TO authenticated;

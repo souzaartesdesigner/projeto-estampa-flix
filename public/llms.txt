@@ -1,0 +1,13 @@
+# Estampa Flix
+
+> Marketplace de artes digitais em alta resolução para sublimação, DTF e produção criativa. Assinatura mensal com créditos para downloads.
+
+Estampa Flix oferece milhares de artes prontas em 300 DPI, com licença comercial, para quem produz canecas, camisetas, quadros e outros produtos personalizados. Assinantes ganham créditos mensais para baixar as artes que quiserem.
+
+## Pages
+
+- [Início](/): Página inicial com destaques, categorias e planos.
+- [Catálogo](/catalogo): Explore o catálogo completo de artes digitais, filtre por categoria, formato, cor e tags.
+- [Planos](/planos): Compare os planos de assinatura Lite, Pro e Plus com créditos mensais.
+- [Blog](/blog): Dicas, tutoriais e novidades sobre sublimação, DTF e produção criativa.
+- [Suporte](/suporte): Perguntas frequentes e formulário de contato.

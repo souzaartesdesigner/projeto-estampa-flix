@@ -1,0 +1,1 @@
+TRUNCATE public.artworks, public.categories, public.tags, public.artwork_categories, public.artwork_tags, public.reviews, public.downloads, public.cart_items, public.favorites CASCADE;

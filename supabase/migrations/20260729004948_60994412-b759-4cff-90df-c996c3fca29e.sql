@@ -1,0 +1,2 @@
+ALTER TABLE public.artworks ADD COLUMN IF NOT EXISTS product_code text GENERATED ALWAYS AS (upper(left(id::text, 8))) STORED;
+CREATE INDEX IF NOT EXISTS artworks_product_code_idx ON public.artworks (product_code);

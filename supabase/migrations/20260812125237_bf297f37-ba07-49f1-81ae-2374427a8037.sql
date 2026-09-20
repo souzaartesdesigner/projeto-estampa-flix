@@ -1,0 +1,6 @@
+ALTER TABLE public.categories 
+ADD COLUMN IF NOT EXISTS seo_title TEXT,
+ADD COLUMN IF NOT EXISTS seo_description TEXT,
+ADD COLUMN IF NOT EXISTS seo_keyword TEXT,
+ADD COLUMN IF NOT EXISTS seo_footer_text TEXT,
+ADD COLUMN IF NOT EXISTS cover_alt TEXT;

@@ -1,0 +1,1 @@
+UPDATE public.site_settings SET site_name = 'Estampa Flix', logo_url = '/__l5e/assets-v1/803758df-7757-44c9-8c71-26e110368b12/estampa-flix-logo.png' WHERE id = true;

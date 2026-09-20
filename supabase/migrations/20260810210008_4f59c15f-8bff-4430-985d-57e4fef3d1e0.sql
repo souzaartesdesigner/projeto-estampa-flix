@@ -1,0 +1,1 @@
+UPDATE site_settings SET ga4_measurement_id = NULL, google_ads_id = NULL, google_ads_purchase_label = NULL WHERE id = true;

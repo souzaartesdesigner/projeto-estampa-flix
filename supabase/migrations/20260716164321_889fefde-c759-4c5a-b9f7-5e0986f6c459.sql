@@ -1,0 +1,1 @@
+CREATE POLICY "Admin manage downloads" ON public.downloads FOR ALL USING (public.has_role(auth.uid(), 'admin')) WITH CHECK (public.has_role(auth.uid(), 'admin'));
